@@ -1,3 +1,3 @@
 # Distributed Bayesian Optimization
 
-Supplementary code and full paper for "Distributed Thompson Sampling under constrained communication"
+Supplementary code and full paper for "Distributed Thompson sampling under constrained communication"
